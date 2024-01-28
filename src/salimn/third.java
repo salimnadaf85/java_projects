@@ -79,7 +79,7 @@ class ATMa {
                     break;
 
                 case "3":
-                    System.out.println("Current balance: $" + userAccount.checkBalance());
+                    System.out.println("Current balance: " + userAccount.checkBalance());
                     break;
 
                 case "4":
